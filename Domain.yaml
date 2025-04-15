@@ -11,3 +11,5 @@ components:
       type: object
     Model3:
       type: object
+    Item:
+      type: object
