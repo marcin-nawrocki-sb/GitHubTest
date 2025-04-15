@@ -7,3 +7,7 @@ components:
   schemas:
     Model:
       type: object
+    Model2:
+      type: object
+    Model3:
+      type: object
